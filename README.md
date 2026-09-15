@@ -1,1 +1,2 @@
 - main.cpp >> sistema difuso de control de temperatura
+- carrito.cpp >> sistema difuso 2 variables(distancia y angulo) para control de un carrito
